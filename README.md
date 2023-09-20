@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alexandru (@FABrasoveanu)
+- 👀 I’m interested in robotics, control and sensoristics.
+- 🌱 I’m currently learning ROS and soft robotics.
+- 💞️ I’m looking to collaborate on robotic control and system theory in medical applications.
+- 📫 How to reach me: DM me here on git.
